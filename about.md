@@ -3,27 +3,12 @@ layout: page
 title: About
 ---
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
+![This is me!](images/IMG_20190406_231853_2-01.jpeg)
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+Hello there, thanks for coming to my blog!
 
-There are currently two themes built on Poole:
+I am Ahmad Afnan Amjad from Lahore, Pakistan. Currently I am enrolled in a four-year BS program at the SBA School of Science and Engineering, LUMS University, Lahore. Initially I chose to major in Physics, but then I decided to switch to Computer Science. Right now I am in the process of switching my major.
 
-* [Hyde](https://hyde.getpoole.com)
-* [Lanyon](https://lanyon.getpoole.com)
-
-Learn more and contribute on [GitHub](https://github.com/poole).
-
-## Setup
-
-Some fun facts about the setup of this project include:
-
-* Built for [Jekyll](https://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Atom](https://atom.io)
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
+If you have any questions or suggestions, feel free to [drop me an email](mailto:afnanmughal@hotmail.com) or [text me on WhatsApp](https://api.whatsapp.com/send?phone=923235552888) (I'm not active on social media).
 
 Thanks for reading!
