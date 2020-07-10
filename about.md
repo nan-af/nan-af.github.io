@@ -11,7 +11,7 @@ I am Ahmad Afnan Amjad from Lahore, Pakistan. Currently I am enrolled in a four-
 
 This blog will contain whatever experiments or projects or remarkable observations or random insights that I want to write about. In other words, anything goes!
 
-The name of this blog, nan-Af is an anagram of my name, "Afnan" (that's what people mostly call me, not Ahmad, as many people would initially assume). One can also say that it is an abbreviation for "Not A Number, As F\*\*k" (that *is* true, is it not?). If you can come up with another interpretation, let me know :).
+The name of this blog, nan-af is an anagram of my name, "Afnan" (that's what people mostly call me, not Ahmad, as many people would initially assume). One can also say that it is an abbreviation for "Not A Number, As F\*\*k" (that *is* true, is it not?). If you can come up with another cool interpretation, let me know :).
 
 If you have any questions or suggestions, feel free to [drop me an email](mailto:afnanmughal@hotmail.com) or [text me on WhatsApp](https://api.whatsapp.com/send?phone=923235552888) (I'm not active on social media).
 
