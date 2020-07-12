@@ -13,7 +13,8 @@ This blog will contain whatever experiments or projects or remarkable observatio
 
 The name of this blog, nan-af is an anagram of my name, "Afnan" (that's what people mostly call me, not Ahmad, as many people would initially assume). One can also say that it is an abbreviation for "Not A Number, As F\*\*k" (that *is* true, is it not?). If you can come up with another cool interpretation, let me know :).
 
-If you have any questions or suggestions, feel free to<!-- [drop me an email](mailto:afnanmughal@hotmail.com) -->
+If you have any questions or suggestions, feel free to <span id="contact"/> (I'm not active on social media).
+
 <script language="Javascript" type="text/javascript">
     // protection against spambots
     // probably a bit overkill, or maybe it's insufficient, IDK
@@ -34,10 +35,11 @@ If you have any questions or suggestions, feel free to<!-- [drop me an email](ma
     let w_part1_3 = "&#056;&#056;&#056;";
     let w = w_part0 + w_part1_0 + w_part1_1 + w_part1_2 + w_part1_3;
 
-    document.write(" <a href=" + e + ">drop me an email</a>");
-    document.write(" or ");
-    document.write("<a href=" + w + ">text me on WhatsApp</a> ");
+    document.getElementById("contact").innerHTML = " <a href=" + e + ">drop me an email</a>" + " or " + "<a href=" + w + ">text me on WhatsApp</a> ";
+
+    // document.write(" <a href=" + e + ">drop me an email</a>");
+    // document.write(" or ");
+    // document.write("<a href=" + w + ">text me on WhatsApp</a> ");
 </script>
-(I'm not active on social media).
 
 Thanks for reading!
