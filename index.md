@@ -1,6 +1,6 @@
 ---
 layout: default
-title: About
+title: About me
 ---
 
 ![Picture of my face](images/IMG_20190406_231853_2-01.jpeg "This is me!")
