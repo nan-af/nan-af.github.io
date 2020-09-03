@@ -3,7 +3,7 @@ layout: default
 title: About
 ---
 
-![This is me!](images/IMG_20190406_231853_2-01.jpeg)
+![Picture of my face](images/IMG_20190406_231853_2-01.jpeg "This is me!")
 
 Hello there, thanks for coming to my blog!
 
