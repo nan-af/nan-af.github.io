@@ -3,6 +3,34 @@ layout: page
 # title: CV
 ---
 
+# Education
+
+## LUMS University
+_Lahore, Pakistan_
+
+2017 - Present
+
+* __B.S. in Computer Science, Subject CGPA: 3.13/4.00__
+    * Intro to Internet of Things
+    * Network-Centric Computing
+    * Intro to Artificial Intelligence
+    * Advanced Programming
+    * Digital Logic Circuits
+    * Data Structures
+* __Minor in Physics__
+    * Quantum Mechanics
+    * Electromagnetic Fields and Waves
+
+## Salamat International Campus for Advanced Studies, (SICAS)
+_Lahore, Pakistan_
+
+* __Cambridge A' Level, 2A__
+    2015 - 2017
+    * Computer Science, Physics, Chemistry, Mathematics
+* __Cambridge O' Level, 4A*, 2A, 1B__
+    2012 - 2015
+    * ICT, Physics, Mathematics, Chemistry
+
 # Projects
 
 ## Multiplexing IoT Communication Protocols on a Single Radio
