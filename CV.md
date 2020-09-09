@@ -3,6 +3,8 @@ layout: page
 title: CV
 ---
 
+---
+
 # Education
 
 ## LUMS University
@@ -30,6 +32,8 @@ _Lahore, Pakistan_
 * __Cambridge O' Level, 4A*, 2A, 1B__
     2012 - 2015
     * ICT, Physics, Mathematics, Chemistry
+
+---
 
 # Projects
 
