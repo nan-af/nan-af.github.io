@@ -94,8 +94,13 @@ October 2019
 
 For the Lahore Science Mela 2019, I was part of the LHC Interactive Tunnel demonstration which was done in official collaboration with CERN. It was a 2 day event, with several hundred visitors, and it was broadcast on TV all over Pakistan.
 
+### "Invisibility Cloak" Demonstration for SPIE
+July 2019
+
+I developed and presented a demonstration for SPIE (Society of Photo-Optical Instrumentation Engineers) LUMS Student Chapter where I showed how an object can be made invisible using a specific arrangement of prisms, by 'bending' light around the object. It was observed by dozens of schoolkids in Chiniot.
+
 ### Hyperloop Pod Competition
-September - November 2018
+September - November 2018 \
 Creo Parametric
 
 I was part of the PAKLoop team for SpaceX's 2018 Hyperloop Pod Competition. As part of the Propulsion sub-team, I designed a novel Triple-Thruster Rocket Engine for the Pod.
@@ -105,7 +110,9 @@ I was part of the PAKLoop team for SpaceX's 2018 Hyperloop Pod Competition. As p
 
 SPADES Observatory
 
-SAW VP-->
+SAW VP
+
+SPIE-->
 
 
 ### Tetris Clone
