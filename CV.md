@@ -89,11 +89,42 @@ January - May 2020
 * __State Machine for 12-bit Binary Sequence Interpretation__ \
     Logic Gates, 16 kB x 8 bit ROM IC, 6-bit Flip-Flop IC with common clock
 
+### LHC Interactive Tunnel
+October 2019
+
+For the Lahore Science Mela 2019, I was part of the LHC Interactive Tunnel demonstration which was done in official collaboration with CERN. It was a 2 day event, with several hundred visitors, and it was broadcast on TV all over Pakistan.
+
+### Hyperloop Pod Competition
+September - November 2018
+Creo Parametric
+
+I was part of the PAKLoop team for SpaceX's 2018 Hyperloop Pod Competition. As part of the Propulsion sub-team, I designed a novel Triple-Thruster Rocket Engine for the Pod.
+
+
+<!--EMS
+
+SPADES Observatory
+
+SAW VP-->
+
+
 ### Tetris Clone
 C++ \
 September - December 2017
 
 I developed a fully playable Tetris Clone in C++ for my introductory level Computational Problem Solving course.
+
+### Autonomous Line Following Robot with Obstacle Detection
+Arduino Mega, C language \
+September - December 2017
+
+I was part of a team that developed a fully functioning Autonomous Line Following Robot which also included a set of ultrasonic sensors for obstacle detection for our introductory level Engineering Lab course. The task given to us was to navigate a maze in the shortest possible time. Our robot got first place in that competition.
+
+### Website for Planned Event
+HTML, CSS, cPanel \
+Early 2016
+
+I developed and deployed a fully functioning website for a planned event at my school, including a registration form.
 
 ---
 
@@ -111,9 +142,13 @@ I developed a fully playable Tetris Clone in C++ for my introductory level Compu
 * Go
 * C/C++
 * MATLAB
+* LaTeX
 * .NET Framework
     * VB.NET
 * Shell scripting
+    * Linux
+    * Windows
+* cPanel
 
 ---
 
