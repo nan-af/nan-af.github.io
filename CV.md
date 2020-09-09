@@ -107,3 +107,25 @@ C++
 September - December 2017
 
 I developed a fully playable Tetris Clone in C++ for my introductory level Computational Problem Solving course.
+
+---
+
+## Skills
+* Python
+    * PyTorch
+    * NumPy
+    * scikit
+    * MatPlotLib
+* JavaScript
+    * React
+    * Vue
+    * Node
+* Haskell
+* Go
+* C/C++
+* MATLAB
+* .NET Framework
+    * VB.NET
+
+---
+
