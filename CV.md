@@ -3,11 +3,13 @@ layout: page
 title: CV
 ---
 
+# Ahmad Afnan Amjad
+
 ---
 
-# Education
+## Education
 
-## LUMS University
+### LUMS University
 _Lahore, Pakistan_
 
 2017 - Present
@@ -23,7 +25,7 @@ _Lahore, Pakistan_
     * Quantum Mechanics
     * Electromagnetic Fields and Waves
 
-## Salamat International Campus for Advanced Studies, (SICAS)
+### Salamat International Campus for Advanced Studies, (SICAS)
 _Lahore, Pakistan_
 
 * __Cambridge A' Level, 2A__
@@ -35,23 +37,23 @@ _Lahore, Pakistan_
 
 ---
 
-# Projects
+## Projects
 
-## Multiplexing IoT Communication Protocols on a Single Radio
+### Multiplexing IoT Communication Protocols on a Single Radio
 Contiki OS, C language
 
 August 2020 - Present
 
 I am currently involved in research with Dr Hamad Alizai where I am studying techniques to use a single radio to communicate with multiple IoT devices which may be using otherwise incompatible protocols.
 
-## Distributed Greenhouse Monitoring and Control System
+### Distributed Greenhouse Monitoring and Control System
 Contiki-NG, Tmote Sky, C language, Python, scikit-learn
 
 July - August 2020
 
 I developed an end-to-end system for monitoring and controlling a greenhouse system to achieve and maintain optimal plant growth conditions for my Introduction to Internet of Things course. A number of Tmote Sky devices were installed at different points in the greenhouse to collect environmental data and send it over to a server for processing. The server then sends commands to raise an alarm if any abnormal/hazardous conditions are detected. However, due to COVID-19, I was not able to physically implement the system on hardware and instead it was emulated in Cooja.
 
-## Artificial Intelligence
+### Artificial Intelligence
 January - May 2020
 
 * __Neural Network for MNIST Handwritten Digits Classification__
@@ -66,7 +68,7 @@ January - May 2020
 
     Python, Google Colab, Pytorch
 
-## Networks
+### Networks
 January - May 2020
 
 * __Peer-to-peer File Sharing System using a Distributed Hash Ring__
@@ -81,14 +83,14 @@ January - May 2020
 
     Python, Sockets
 
-## Electronic Medical Record System
+### Electronic Medical Record System
 ReactJS, ExpressJS, PassportJS, OAuth, NodeJS, JavaScript, PostgreSQL, Heroku
 
 January - May 2020
 
 I was part of a team that developed and deployed an Electronic Medical Record system for use in a clinical setting, as part of our Software Engineering course. The project can be accessed at [e-m-r-s.herokuapp.com](https://e-m-r-s.herokuapp.com).
 
-## Digital Logic Circuits
+### Digital Logic Circuits
 January - May 2020
 
 * __Implementation of Conway's Game of Life using Fully Custom Logic Circuits__
@@ -99,7 +101,7 @@ January - May 2020
 
     Logic Gates, 16 kB x 8 bit ROM IC, 6-bit Flip-Flop IC with common clock
 
-## Tetris Clone
+### Tetris Clone
 C++
 
 September - December 2017
