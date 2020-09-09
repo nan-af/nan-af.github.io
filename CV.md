@@ -126,6 +126,7 @@ I developed a fully playable Tetris Clone in C++ for my introductory level Compu
 * MATLAB
 * .NET Framework
     * VB.NET
+* Shell scripting
 
 ---
 
