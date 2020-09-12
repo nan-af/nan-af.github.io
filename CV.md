@@ -92,7 +92,7 @@ January - May 2020
 ### LHC Interactive Tunnel
 October 2019
 
-For the Lahore Science Mela 2019, I was part of the LHC Interactive Tunnel demonstration which was done in official collaboration with CERN. It was a 2 day event, with several hundred visitors, and it was broadcast on TV all over Pakistan.
+For the Lahore Science Mela 2019, I was part of the LHC Interactive Tunnel demonstration which was done in official collaboration with CERN. It was a 2 day event, with several hundreds of visitors, and it was broadcast on TV all over Pakistan.
 
 ### "Invisibility Cloak" Demonstration for SPIE
 July 2019
@@ -103,17 +103,7 @@ I developed and presented a demonstration for SPIE (Society of Photo-Optical Ins
 September - November 2018 \
 Creo Parametric
 
-I was part of the PAKLoop team for SpaceX's 2018 Hyperloop Pod Competition. As part of the Propulsion sub-team, I designed a novel Triple-Thruster Rocket Engine for the Pod.
-
-
-<!--EMS
-
-SPADES Observatory
-
-SAW VP
-
-SPIE-->
-
+I was part of the PAKLoop team for SpaceX's 2019 Hyperloop Pod Competition. As part of the Propulsion sub-team, I designed a novel Triple-Thruster Rocket Engine for the Pod.
 
 ### Tetris Clone
 C++ \
@@ -136,6 +126,8 @@ I developed and deployed a fully functioning website for a planned event at my s
 ---
 
 ## Skills
+* OOP
+* Functional Programming
 * Python
     * PyTorch
     * NumPy
@@ -155,7 +147,79 @@ I developed and deployed a fully functioning website for a planned event at my s
 * Shell scripting
     * Linux
     * Windows
+* HTML
+* CSS
+* Microsoft Office Suite
+* Proteus Design Suite
+* Creo Parametric
 * cPanel
 
 ---
 
+## Work Experience / Society Work
+
+### CEO at Amjad Amin Forgings
+August 2018 - Present
+
+I have served as the CEO of my father's company since his demise in August of 2018. The company primarily focuses on making auto parts by [forging](https://en.wikipedia.org/wiki/Forging). Parts for Massey Ferguson and FIAT tractors make up a very large portion of our sales.
+
+### Director of the LUMS Space Observatory
+2019 - 2020
+
+I have served as the Director of the LUMS Space Observatory, which is operated by the SPADES society, for one academic year. Before that, I was the Assistant Director for one academic year.
+
+### Member at SPIE LUMS Student Chapter
+2019 - 2020
+
+I am a member at the LUMS Student Chapter of the International Society of Photo-Optical Instrumentation Engineers.
+
+### PsiFi
+January 2019
+
+As Director of the SPADES Observatory at LUMS, I was part of the organising team for the Zero Gravity sub-event of PsiFi 2019, which had a few dozen participants from all over Pakistan.
+
+### Trainee MFR at LUMS EMS
+September - December 2017
+
+I participated in a semester-long MFR (Medical First Responder) course held by LUMS EMS (Emergency Medical Services) in my first semester, where I learnt and practised the appropriate First Aid procedures for several different types of mild to severe medical emergencies.
+
+### LAST
+2017 - Present
+
+Since 2017, I have participated in the Lahore Astronomical Society.
+
+### Vice President of SAW
+2016 - 2017
+
+I served as Vice President of the SAW (Scientists At Work) society at my school for the academic year 2016 - 2017.
+
+---
+
+## Talks / Lectures
+
+### _Hyperloop_ at School of Sciences
+July 2019
+
+At a summer camp by NGP at the School of Sciences in Gohawa, Lahore, I delivered a lecture about Hyperloop and our design for the Hyperloop Pod Competition.
+
+### _Hyperloop_ at ITE Tech Week, UET Lahore
+February 2019
+
+I, along with some other members of my Hyperloop Pod Competition team, gave a presentation at Tech Week 2019, which was organised by the ITE (Institute of Transportation Engineers) Student Chapter at UET (University of Engineering and Technology) Lahore.
+
+### _Hyperloop_ at Buraq Space Camp
+December 2018
+
+I delivered a lecture about Hyperloop and my experience with that year's Hyperloop Pod Competition at the Buraq Space Camp 2018, in Islamabad. The audience comprised of the top 40 students of ages 14-16 years from all over Pakistan.
+
+---
+
+## Hobbies
+* Programming
+* Tinkering with technology
+* Reading Wikipedia
+* Learning
+* Driving
+* Photography
+* Astronomy
+* Hiking/Trekking
