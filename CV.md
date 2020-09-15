@@ -38,11 +38,11 @@ _Lahore, Pakistan_
 
 ## Projects
 
-### Multiplexing IoT Communication Protocols on a Single Radio
+<!-- ### Multiplexing IoT Communication Protocols on a Single Radio
 Contiki OS, C language \
 August 2020 - Present
 
-I am currently involved in research with Dr Hamad Alizai where I am studying techniques to use a single radio to communicate with multiple IoT devices which may be using otherwise incompatible protocols.
+I am currently involved in research with Dr Hamad Alizai where I am studying techniques to use a single radio to communicate with multiple IoT devices which may be using otherwise incompatible protocols. -->
 
 ### Distributed Greenhouse Monitoring and Control System
 Contiki-NG, Tmote Sky, C language, Python, scikit-learn \
@@ -78,7 +78,7 @@ January - May 2020
 ReactJS, ExpressJS, PassportJS, OAuth, NodeJS, JavaScript, PostgreSQL, Heroku \
 January - May 2020
 
-I was part of a team that developed and deployed an Electronic Medical Record system for use in a clinical setting, as part of our Software Engineering course. The project can be accessed at [e-m-r-s.herokuapp.com](https://e-m-r-s.herokuapp.com).
+I was part of a team that developed and deployed an Electronic Medical Record system for use in a clinical setting, as part of our Software Engineering course. The project can be accessed at [e-m-r-s.herokuapp.com](https://e-m-r-s.herokuapp.com) and the Git repository is located at [github.com/AhmedFarhan252/EMRS](https://github.com/AhmedFarhan252/EMRS).
 
 ### Digital Logic Circuits
 January - May 2020
@@ -94,14 +94,16 @@ October 2019
 
 For the Lahore Science Mela 2019, I was part of the LHC Interactive Tunnel demonstration which was done in official collaboration with CERN. It was a 2 day event, with several hundreds of visitors, and it was broadcast on TV all over Pakistan.
 
+The LHC Interactive Tunnel (LIT) is a set of large-scale Augmented Reality demonstrations designed by the CERN Media Lab. It allows people to learn about LHC and Particle Physics in a fun and interactive way. A video of LIT in action can be found at [https://youtu.be/7G7FOCzLXUY](https://www.youtube.com/watch?v=7G7FOCzLXUY).
+
 ### "Invisibility Cloak" Demonstration for SPIE
 July 2019
 
 I developed and presented a demonstration for SPIE (Society of Photo-Optical Instrumentation Engineers) LUMS Student Chapter where I showed how an object can be made invisible using a specific arrangement of prisms, by 'bending' light around the object. It was observed by dozens of schoolkids in Chiniot.
 
 ### Hyperloop Pod Competition
-September - November 2018 \
-Creo Parametric
+Creo Parametric \
+September - November 2018
 
 I was part of the PAKLoop team for SpaceX's 2019 Hyperloop Pod Competition. As part of the Propulsion sub-team, I designed a novel Triple-Thruster Rocket Engine for the Pod.
 
@@ -181,7 +183,7 @@ As Director of the SPADES Observatory at LUMS, I was part of the organising team
 ### Trainee MFR at LUMS EMS
 September - December 2017
 
-I participated in a semester-long MFR (Medical First Responder) course held by LUMS EMS (Emergency Medical Services) in my first semester, where I learnt and practised the appropriate First Aid procedures for several different types of mild to severe medical emergencies.
+I participated in a semester-long MFR (Medical First Responder) training course held by LUMS EMS (Emergency Medical Services) in my first semester, where I learnt and practised the appropriate First Aid procedures for several different types of mild to severe medical emergencies.
 
 ### LAST
 2017 - Present
@@ -220,6 +222,8 @@ I delivered a lecture about Hyperloop and my experience with that year's Hyperlo
 * Reading Wikipedia
 * Learning
 * Driving
+* Cycling
+* Travelling
 * Photography
 * Astronomy
 * Hiking/Trekking
