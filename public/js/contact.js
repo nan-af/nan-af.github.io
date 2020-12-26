@@ -5,7 +5,7 @@
 // non-clickable contact details on my Blog.
 
 // Here I've replaced important information with the equivalent HTML ASCII codes.
-// it is split up into several parts,
+// It is split up into several parts,
 // and the parts are shuffled.
 // Automated tools that just look at the source code
 // will hopefully be unable to find my contact details.
@@ -16,18 +16,24 @@
 
 let e_part1_0 = "&#097;&#102;&#110;&#097;&#110;";
 let e_part0_1 = "&#116;&#111;";
-let w_part1_0 = "&#057;&#050;&#051;";
+let p_part0 = "+" + "&#057;&#050;&#051;";
 let e_part1_1 = "&#109;&#117;&#103;&#104;&#097;&#108;";
 let e_part0_0 = "&#109;&#097;&#105;&#108;";
 let w_part0 = "https://api.whatsapp.com/send?phone=";
 let e_part3_0 = "&#099;&#111;&#109;";
 let e_part2_1 = "&#109;&#097;&#105;&#108;";
-let w_part1_2 = "&#053;&#053;&#050;";
+let p_part2 = "&#053;&#053;&#050;";
 let e_part2_0 = "&#104;&#111;&#116;";
-let w_part1_1 = "&#050;&#051;&#053;";
-let w_part1_3 = "&#056;&#056;&#056;";
+let p_part1 = "&#050;&#051;&#053;";
+let p_part3 = "&#056;&#056;&#056;";
 
-let e = e_part0_0 + e_part0_1 + ":" + e_part1_0 + e_part1_1 + "@" + e_part2_0 + e_part2_1 + "." + e_part3_0;    //assembled email
-let w = w_part0 + w_part1_0 + w_part1_1 + w_part1_2 + w_part1_3;    // assembled whatsapp link
+let e = e_part1_0 + e_part1_1 + "@" + e_part2_0 + e_part2_1 + "." + e_part3_0;    // assembled email
+let p = p_part0 + p_part1 + p_part2 + p_part3;    // assembled phone no
 
-document.getElementById("contact").innerHTML = " <a href=" + e + ">email</a>" + " or " + "<a href=" + w + ">WhatsApp</a> ";
+let e_l = e_part0_0 + e_part0_1 + ":" + e_part1_0 + e_part1_1 + "@" + e_part2_0 + e_part2_1 + "." + e_part3_0;    // assembled email link
+let w_l = w_part0 + p_part0 + p_part1 + p_part2 + p_part3;    // assembled whatsapp link
+
+document.getElementById("CV_contact_line").innerHTML = "<a href=" + e_l + ">" + e + "</a>" + "  |  " + "<a href=" + w_l + ">" + p + "</a>";
+
+document.getElementById("email-link").href = e_l;
+document.getElementById("whatsapp-link").href = w_l;
