@@ -43,11 +43,11 @@ _Lahore, Pakistan_
 
 ## Projects
 
-<!-- ### Multiplexing IoT Communication Protocols on a Single Radio
-Contiki OS, C language \
-August 2020 - Present
+### Time and Motion Study Software
+Laravel, PHP, MySQL, Bootstrap, JavaScript \
+October 2020 - Present
 
-I am currently involved in research with Dr Hamad Alizai where I am studying techniques to use a single radio to communicate with multiple IoT devices which may be using otherwise incompatible protocols. -->
+I am currently developing a software to aid in Time and Motion Study of industrial processes. It is intended to be used by industrial engineers who are working to optimise the assembly line for maximum speed.
 
 ### Distributed Greenhouse Monitoring and Control System
 Contiki-NG, Tmote Sky, C language, Python, scikit-learn \
@@ -80,7 +80,7 @@ January - May 2020
     Python, Sockets
 
 ### Electronic Medical Record System
-ReactJS, ExpressJS, PassportJS, OAuth, NodeJS, JavaScript, PostgreSQL, Heroku \
+ReactJS, Bootstrap, ExpressJS, PassportJS, OAuth, NodeJS, JavaScript, PostgreSQL, Heroku \
 January - May 2020
 
 I was part of a team that developed and deployed an Electronic Medical Record system for use in a clinical setting, as part of our Software Engineering course. The project can be accessed at [e-m-r-s.herokuapp.com](https://e-m-r-s.herokuapp.com) and the Git repository is located at [github.com/AhmedFarhan252/EMRS](https://github.com/AhmedFarhan252/EMRS).
@@ -144,11 +144,14 @@ I developed and deployed a fully functioning website for a planned event at my s
     * React
     * Vue
     * Node
+* PHP
+    * Laravel
 * Haskell
 * Go
 * C/C++
 * MATLAB
 * LaTeX
+* MySQL
 * .NET Framework
     * VB.NET
 * Shell scripting
@@ -156,6 +159,7 @@ I developed and deployed a fully functioning website for a planned event at my s
     * Windows
 * HTML
 * CSS
+    * Bootstrap
 * Microsoft Office Suite
 * Proteus Design Suite
 * Creo Parametric
@@ -168,7 +172,7 @@ I developed and deployed a fully functioning website for a planned event at my s
 ### CEO at Amjad Amin Forgings
 August 2018 - Present
 
-I have served as the CEO of my father's company since his demise in August of 2018. The company primarily focuses on making auto parts by [forging](https://en.wikipedia.org/wiki/Forging). Parts for Massey Ferguson and FIAT tractors make up a very large portion of our sales.
+I have served as the CEO of my father's company since his demise in August of 2018. The company primarily focuses on making auto parts by [forging](https://en.wikipedia.org/wiki/Forging). Parts for Massey Ferguson and FIAT tractors make up a majority of our sales.
 
 ### Director of the LUMS Space Observatory
 2019 - 2020
@@ -200,6 +204,11 @@ Since 2017, I have participated in the Lahore Astronomical Society.
 
 I served as Vice President of the SAW (Scientists At Work) society at my school for the academic year 2016 - 2017.
 
+### Cadet at Buraq Space Camp
+December 2014
+
+I was among the 40 top students of ages 14-16, who were selected from all over Pakistan to attend the Buraq Space Camp 2014.
+
 ---
 
 ## Talks / Lectures
@@ -212,7 +221,7 @@ At a summer camp by NGP at the School of Sciences in Gohawa, Lahore, I delivered
 ### _Hyperloop_ at ITE Tech Week, UET Lahore
 February 2019
 
-I, along with some other members of my Hyperloop Pod Competition team, gave a presentation at Tech Week 2019, which was organised by the ITE (Institute of Transportation Engineers) Student Chapter at UET (University of Engineering and Technology) Lahore.
+I, along with a few other members of my Hyperloop Pod Competition team, gave a presentation at Tech Week 2019, which was organised by the ITE (Institute of Transportation Engineers) Student Chapter at UET (University of Engineering and Technology) Lahore.
 
 ### _Hyperloop_ at Buraq Space Camp
 December 2018
