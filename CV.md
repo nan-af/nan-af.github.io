@@ -5,10 +5,8 @@ title: CV
 
 # Ahmad Afnan Amjad
 
-<p>
-    <span id="CV_contact_line"></span><br/>
-    87, Naeem Block, Canal Bank Scheme, Lahore, Pakistan
-</p>
+<span id="CV_contact_line"></span> \
+87, Naeem Block, Canal Bank Scheme, Lahore, Pakistan
 
 ---
 
