@@ -231,3 +231,5 @@ I delivered a lecture about Hyperloop and my experience with that year's Hyperlo
 * Photography
 * Astronomy
 * Hiking/Trekking
+
+<script src="/public/js/contact.js"/>
