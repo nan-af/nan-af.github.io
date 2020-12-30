@@ -92,18 +92,6 @@ January - May 2020
 * __State Machine for 12-bit Binary Sequence Interpretation__ \
     Logic Gates, 16 kB x 8 bit ROM IC, 6-bit Flip-Flop IC with common clock
 
-### LHC Interactive Tunnel
-October 2019
-
-For the Lahore Science Mela 2019, I was part of the LHC Interactive Tunnel demonstration which was done in official collaboration with CERN. It was a 2 day event, with several hundreds of visitors, and it was broadcast on TV all over Pakistan.
-
-The LHC Interactive Tunnel (LIT) is a set of large-scale Augmented Reality demonstrations designed by the CERN Media Lab. It allows people to learn about LHC and Particle Physics in a fun and interactive way. A video of LIT in action can be found at [https://youtu.be/7G7FOCzLXUY](https://www.youtube.com/watch?v=7G7FOCzLXUY).
-
-### "Invisibility Cloak" Demonstration for SPIE
-July 2019
-
-I developed and presented a demonstration for SPIE (Society of Photo-Optical Instrumentation Engineers) LUMS Student Chapter where I showed how an object can be made invisible using a specific arrangement of prisms, by 'bending' light around the object. It was observed by dozens of schoolkids in Chiniot.
-
 ### Hyperloop Pod Competition
 Creo Parametric \
 September - November 2018
@@ -210,6 +198,18 @@ I was among the 40 top students of ages 14-16, who were selected from all over P
 ---
 
 ## Talks / Lectures
+
+### LHC Interactive Tunnel
+October 2019
+
+For the Lahore Science Mela 2019, I was part of the LHC Interactive Tunnel demonstration which was done in official collaboration with CERN. It was a 2 day event, with several hundreds of visitors, and it was broadcast on TV all over Pakistan.
+
+The LHC Interactive Tunnel (LIT) is a set of large-scale Augmented Reality demonstrations designed by the CERN Media Lab. It allows people to learn about LHC and Particle Physics in a fun and interactive way. A video of LIT in action can be found at [https://youtu.be/7G7FOCzLXUY](https://www.youtube.com/watch?v=7G7FOCzLXUY).
+
+### "Invisibility Cloak" Demonstration for SPIE
+July 2019
+
+I developed and presented a demonstration for SPIE (Society of Photo-Optical Instrumentation Engineers) LUMS Student Chapter where I showed how an object can be made invisible using a specific arrangement of prisms, by 'bending' light around the object. The audience included dozens of schoolkids in Chiniot.
 
 ### _Hyperloop_ at School of Sciences
 July 2019
