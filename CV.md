@@ -126,23 +126,25 @@ I developed and deployed a fully functioning website for a planned event at my s
     * NumPy
     * scikit
     * MatPlotLib
+* Go
+* C/C++
 * JavaScript
     * React
     * Vue
     * Node
 * PHP
     * Laravel
-* Haskell
-* Go
-* C/C++
+* Rust
 * MATLAB
-* LaTeX
-* MySQL
-* .NET Framework
-    * VB.NET
 * Shell scripting
     * Linux
     * Windows
+* Haskell
+* LaTeX
+* SQL
+    * MySQL
+* .NET Framework
+    * VB.NET
 * HTML
 * CSS
     * Bootstrap
@@ -229,15 +231,15 @@ I delivered a lecture about Hyperloop and my experience with that year's Hyperlo
 ---
 
 ## Hobbies
-* Programming
+<!-- * Programming -->
 * Tinkering with technology
 * Reading Wikipedia
-* Learning
-* Driving
-* Cycling
-* Travelling
+<!-- * Learning -->
+<!-- * Driving -->
 * Photography
 * Astronomy
 * Hiking/Trekking
+<!-- * Travelling -->
+* Cycling
 
 <script src="/public/js/contact.js"/>
