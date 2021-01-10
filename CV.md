@@ -27,7 +27,7 @@ _Lahore, Pakistan_ \
     * Quantum Mechanics
     * Electromagnetic Fields and Waves
 
-### Salamat International Campus for Advanced Studies, (SICAS)
+### Salamat International Campus for Advanced Studies (SICAS)
 _Lahore, Pakistan_
 
 * __Cambridge A' Level, 2A__ \
