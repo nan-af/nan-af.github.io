@@ -16,7 +16,13 @@ title: CV
 _Lahore, Pakistan_ \
 2017 - Present
 
-* __B.S. in Computer Science, Subject CGPA: 3.13/4.00__
+* __B.S. in Computer Science, Subject CGPA: 3.15/4.00__
+    * Image and Video Coding
+    * Network Security
+    * Theory of Automata
+    * Multi-Agent Systems
+    * Natural Language Processing
+    * Principles and Techniques of Data Science
     * Intro to Internet of Things
     * Network-Centric Computing
     * Intro to Artificial Intelligence
@@ -231,15 +237,15 @@ I delivered a lecture about Hyperloop and my experience with that year's Hyperlo
 ---
 
 ## Hobbies
-<!-- * Programming -->
 * Tinkering with technology
 * Reading Wikipedia
-<!-- * Learning -->
-<!-- * Driving -->
 * Photography
 * Astronomy
 * Hiking/Trekking
-<!-- * Travelling -->
 * Cycling
+<!-- * Programming -->
+<!-- * Learning -->
+<!-- * Travelling -->
+<!-- * Driving -->
 
 <script src="/public/js/contact.js"/>
